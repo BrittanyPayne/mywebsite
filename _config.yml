@@ -1,3 +1,20 @@
 theme: jekyll-theme-minimal
-title: Welcome to Brittany Payne homepage!
+title: Brittany Top 5 Favorite fruit's
 description: feel free to book mark this to keep an eye on my project updates
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Fruits List</title>
+</head>
+<body>
+<ol>
+ <li>Pineapples</li>
+ <li>Watermelon</li>
+ <li>Grapes</li>
+ <li>Peaches</li>
+ <li>Strawberry’s</li>
+</ol>
+</body>
+</html>
